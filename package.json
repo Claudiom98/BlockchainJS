@@ -1,0 +1,14 @@
+{
+  "name": "blockchainjs",
+  "version": "1.0.0",
+  "description": "Exemplo de Blockchain usando JavaScript/Blockchain`s example using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudio Moises de Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
